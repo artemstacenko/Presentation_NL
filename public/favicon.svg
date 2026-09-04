@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="НЛ">
+  <rect width="32" height="32" rx="6" fill="#F3EDE3"/>
+  <rect x="1.5" y="1.5" width="29" height="29" rx="4.5" fill="none" stroke="#3A5346" stroke-width="1.75"/>
+  <!-- Н -->
+  <path fill="#1C1712" d="M6 7.6h2.7v6.6h4.2V7.6H15.6v16.8h-2.7v-7.1H8.7v7.1H6z"/>
+  <!-- Л -->
+  <path fill="#1C1712" fill-rule="evenodd" d="M16.8 24.4 21.5 7.6h3.4l4.8 16.8h-3l-.9-3.4h-5.2l-.9 3.4zm4.5-5.8h3.8L22.2 11z"/>
+</svg>

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Нечуй-Левицький. Життєвий шлях",
+      "hasCanvas": false,
+      "bodyTextLen": 288,
+      "bodyTextHash": "d105cb10760f3bb96b03ec1b2dd2d43ce964cc169180df73b0bd0fb290981a62",
+      "bodyTextPrefix": "НЕЧУЙ-ЛЕВИЦЬКИЙ Титул КЛАСИК УКРАЇНСЬКОГО РЕАЛІЗМУ Іван Нечуй-Ле",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Нечуй-Левицький. Життєвий шлях",
+      "hasCanvas": false,
+      "bodyTextLen": 235,
+      "bodyTextHash": "d958ec1231e10ff15c52d309e80cdc6d9d5973767ecdd8fe68d2e70d449d3ec6",
+      "bodyTextPrefix": "НЕЧУЙ-ЛЕВИЦЬКИЙ КЛАСИК УКРАЇНСЬКОГО РЕАЛІЗМУ Іван Нечуй-Левицьки",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
